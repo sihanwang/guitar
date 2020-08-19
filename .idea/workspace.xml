@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59b021d1-7a14-481f-9136-19e09a4b875f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gGXf2SfJVi2VyijYqzrNbEKAfJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.guiter_pu">
+    <configuration name="guiter_pu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guiter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/src/guiter_pu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="guiter_yin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guiter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/src/guiter_yin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.guiter_pu" />
+        <item itemvalue="Python.guiter_yin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59b021d1-7a14-481f-9136-19e09a4b875f" name="Default Changelist" comment="" />
+      <created>1597742003267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597742003267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1659" height="405" key="GridCell.Tab.0.bottom" timestamp="1597816697116">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state width="1659" height="405" key="GridCell.Tab.0.bottom/0.23.1680.955@0.23.1680.955" timestamp="1597816697116" />
+    <state width="1659" height="528" key="GridCell.Tab.0.bottom/0.23.1680.957@0.23.1680.957" timestamp="1597763471450" />
+    <state width="1659" height="303" key="GridCell.Tab.0.bottom/0.23.1680.959@0.23.1680.959" timestamp="1597746510511" />
+    <state width="1659" height="405" key="GridCell.Tab.0.center" timestamp="1597816697116">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state width="1659" height="405" key="GridCell.Tab.0.center/0.23.1680.955@0.23.1680.955" timestamp="1597816697116" />
+    <state width="1659" height="528" key="GridCell.Tab.0.center/0.23.1680.957@0.23.1680.957" timestamp="1597763471448" />
+    <state width="1659" height="303" key="GridCell.Tab.0.center/0.23.1680.959@0.23.1680.959" timestamp="1597746510510" />
+    <state width="1659" height="405" key="GridCell.Tab.0.left" timestamp="1597816697115">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state width="1659" height="405" key="GridCell.Tab.0.left/0.23.1680.955@0.23.1680.955" timestamp="1597816697115" />
+    <state width="1659" height="528" key="GridCell.Tab.0.left/0.23.1680.957@0.23.1680.957" timestamp="1597763471448" />
+    <state width="1659" height="303" key="GridCell.Tab.0.left/0.23.1680.959@0.23.1680.959" timestamp="1597746510510" />
+    <state width="1659" height="405" key="GridCell.Tab.0.right" timestamp="1597816697116">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state width="1659" height="405" key="GridCell.Tab.0.right/0.23.1680.955@0.23.1680.955" timestamp="1597816697116" />
+    <state width="1659" height="528" key="GridCell.Tab.0.right/0.23.1680.957@0.23.1680.957" timestamp="1597763471449" />
+    <state width="1659" height="303" key="GridCell.Tab.0.right/0.23.1680.959@0.23.1680.959" timestamp="1597746510511" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1597761814005">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.23.1680.957@0.23.1680.957" timestamp="1597761814005" />
+  </component>
+</project>
