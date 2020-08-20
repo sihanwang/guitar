@@ -11,28 +11,38 @@ yinMapping={'低音5':('下加三间','6弦3品'),'中音2':('下加一间','4�
             '中音5':('二线','3弦空弦'),'低音7':('下加二间','5弦2品'),'中音4':('一间','4弦3品'),'低音6':('下加二线','5弦空弦'),'高音5':('上加一间','1弦3品')}
 
 wrongList=set([])
-def printAllPu():
-    i=0
+
+def printPuChoices(answer,number):
     random.shuffle(pu)
+    puSetTemp=set(pu)
+    puSetTemp.remove(answer)
+    puSet=list(puSetTemp)[0:number]
+    puSet.append(answer)
+    random.shuffle(puSet)
     puChoices={}
     print("五线谱:",end=' ')
-    for puItem in pu:
+    i=0
+    for puItem in puSet:
         print('('+chr(97+i)+')' + puItem,end=', ')
         puChoices[chr(97+i)]=puItem
         i=i+1
     return puChoices
 
-def printAllQin():
-    i=0
+def printQinChoices(answer,number):
     random.shuffle(qin)
+    qinSetTemp=set(qin)
+    qinSetTemp.remove(answer)
+    qinSet=list(qinSetTemp)[0:number]
+    qinSet.append(answer)
+    random.shuffle(qinSet)
     qinChoices={}
     print("吉他:",end=' ')
-    for qinItem in qin:
+    i=0
+    for qinItem in qinSet:
         print('('+chr(97+i)+')' + qinItem,end=', ')
         qinChoices[chr(97+i)]=qinItem
         i=i+1
     return qinChoices
-
 
 random.shuffle(yin)
 
@@ -41,9 +51,9 @@ for key in yin:
         print('#####')
         print(key)
         print('#####')
-        puChoices=printAllPu()
+        puChoices=printPuChoices(yinMapping[key][0],5)
         print()
-        qinChoices=printAllQin()
+        qinChoices=printQinChoices(yinMapping[key][1],5)
         print()
         answer=input('Please input your answer(五线谱吉他):')
         if len(answer) != 2:
